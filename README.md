@@ -2,8 +2,6 @@
 
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/93788066/228042011-01009558-42d5-429e-9d23-ab3cd761ae55.gif)
 
-HELLO! WELCOME TO MY GITHUB!
-
 <h1 align="center">Hi 👋, I'm Eduardo Gomez</h1>
 <h3 align="center">A passionate frontend developer from Argentina, Interested in learning new technologies and tools for web development.</h3>
 
